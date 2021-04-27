@@ -4,10 +4,10 @@ Pocket Science hopes to help primary school students are struggling with remembe
 # The Team
 ## Founder/Co-Founder
 Ethan Chew  
-Howie Chia
+Howie Chia _(Resigned)_
 
 ## App Developers
-#### iOS Developers
+### iOS Developers
 Ethan Chew  
 Jerick Seng
 ### React Native Developers
@@ -15,12 +15,12 @@ Brydon Ti
 Shanjiith Pranov
 
 ## UI/UX Designers
-Howie Chia  
-Sung Yeji
+Howie Chia _(Resigned)_  
+Sung Yeji _(Resigned)_
 
 ## Data Analysis
-Howie Chia  
-Sung Yeji  
+Howie Chia _(Resigned)_  
+Sung Yeji _(Resigned)_  
 Ethan Chew  
 Brydon Ti  
 Shanjiith Pranov
