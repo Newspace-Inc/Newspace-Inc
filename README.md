@@ -23,10 +23,10 @@ Howie Chia _(Resigned)_
 Sung Yeji _(Resigned)_
 
 ## Data Analysis
-Shanjiith Pranov **(Lead)**
+Shanjiith Pranov **(Lead)**  
 Howie Chia _(Resigned)_  
 Sung Yeji _(Resigned)_  
 Ethan Chew  
-Brydon Ti  
+Brydon Ti
 
 ###### Newspace Inc. 2020/2021
